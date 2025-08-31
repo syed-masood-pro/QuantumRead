@@ -1,0 +1,7 @@
+streamlit
+langchain-groq
+langchain
+langchain-community
+validators
+pytube
+beautifulsoup4
